@@ -16,10 +16,6 @@ class Solution {
             j++;
 
          }
-          
-         
-
-          
         }
         return maxsum/k;
     }
