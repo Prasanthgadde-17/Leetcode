@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
@@ -30,10 +31,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
