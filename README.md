@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prasanthgadde-17/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Prasanthgadde-17/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
